@@ -1,0 +1,3 @@
+Added Component: Designator=R?(AXIAL-0.3)
+Added Pin To Net: NetName=AD0 Pin=R?-2
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R? Res1

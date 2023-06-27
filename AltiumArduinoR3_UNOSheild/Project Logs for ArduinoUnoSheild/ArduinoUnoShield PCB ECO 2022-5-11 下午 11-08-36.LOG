@@ -1,0 +1,4 @@
+Added Component: Designator=S?(DIP-14)
+Added Pin To Net: NetName=5V Pin=S?-3
+Added Pin To Net: NetName=GND Pin=S?-12
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component S? SW DIP-7

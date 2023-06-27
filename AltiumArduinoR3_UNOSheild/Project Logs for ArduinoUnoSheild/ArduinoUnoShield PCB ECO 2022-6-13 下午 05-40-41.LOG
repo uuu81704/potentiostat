@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=AD1 Pin=P?-1
+Added Pin To Net: NetName=AD1 Pin=Q1-1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component AD
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C1 Cap2
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component IOH
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component IOL
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component P? Header 2
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component POWER POWER_UNO
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q1 MOSFET-N
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R1 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R2 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R3 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R4 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R5 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R6 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component S1 SW DIP-7
+Added Room: Name=ArduinoUnoShield

@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=POWER-2
+Added Component: Designator=C?(CAPR5-4X5)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=Q1(E3)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=S1(DIP-14)
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=AD1 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=AD1 Pin=Q1-1
+Added Pin To Net: NetName=IO9 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=5V Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S1-11
+Added Pin To Net: NetName=AD0 Pin=AD-1
+Added Pin To Net: NetName=AD0 Pin=Q1-3
+Added Pin To Net: NetName=AD0 Pin=R?-1
+Added Pin To Net: NetName=AD0 Pin=S1-2
+Added Net: Name=AD0
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R1-2
+Added Pin To Net: NetName=NetC?_1 Pin=S1-3
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=S1-1
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? Cap2
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component P? Header 2
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q1 MOSFET-N
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R1 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R? Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component S1 SW DIP-7

@@ -1,0 +1,77 @@
+Added Component: Designator=AD(Header 6x1 8.5mm)
+Added Component: Designator=C1(CAPR5-4X5)
+Added Component: Designator=IOL(Header 8x1 8.5mm)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=POWER(Header 8x1 8.5mm)
+Added Component: Designator=Q1(E3)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=S1(DIP-14)
+Added Pin To Net: NetName=AD0 Pin=AD-1
+Added Pin To Net: NetName=AD1 Pin=AD-2
+Added Pin To Net: NetName=AD2 Pin=AD-3
+Added Pin To Net: NetName=AD3 Pin=AD-4
+Added Pin To Net: NetName=AD4 Pin=AD-5
+Added Pin To Net: NetName=AD5 Pin=AD-6
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=IO0 Pin=IOL-1
+Added Pin To Net: NetName=IO1 Pin=IOL-2
+Added Pin To Net: NetName=IO2 Pin=IOL-3
+Added Pin To Net: NetName=IO3 Pin=IOL-4
+Added Pin To Net: NetName=IO4 Pin=IOL-5
+Added Pin To Net: NetName=IO5 Pin=IOL-6
+Added Pin To Net: NetName=IO6 Pin=IOL-7
+Added Pin To Net: NetName=IO7 Pin=IOL-8
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=VIN Pin=POWER-1
+Added Pin To Net: NetName=GND Pin=POWER-3
+Added Pin To Net: NetName=5V Pin=POWER-4
+Added Pin To Net: NetName=3V3 Pin=POWER-5
+Added Pin To Net: NetName=RESET Pin=POWER-6
+Added Pin To Net: NetName=IOREF Pin=POWER-7
+Added Pin To Net: NetName=NetP?_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=IO9 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R4-1
+Added Pin To Net: NetName=AD2 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=AD0 Pin=R5-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=NetR2_2 Pin=S1-1
+Added Pin To Net: NetName=NetR2_2 Pin=S1-2
+Added Pin To Net: NetName=NetC1_1 Pin=S1-3
+Added Pin To Net: NetName=5V Pin=S1-4
+Added Pin To Net: NetName=NetR2_1 Pin=S1-5
+Added Pin To Net: NetName=NetS1_6 Pin=S1-6
+Added Pin To Net: NetName=NetS1_6 Pin=S1-7
+Added Pin To Net: NetName=NetR5_1 Pin=S1-8
+Added Pin To Net: NetName=AD2 Pin=S1-9
+Added Pin To Net: NetName=NetS1_6 Pin=S1-10
+Added Pin To Net: NetName=GND Pin=S1-11
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component AD
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C1 Cap2
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component IOL
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component P? Header 2
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component POWER POWER_UNO
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q1 MOSFET-N
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R1 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R2 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R3 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R4 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R5 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R6 Res1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component S1 SW DIP-7
+Added Room: Name=ArduinoUnoShield

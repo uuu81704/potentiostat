@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ArduinoUnoShield.PcbDoc   2022/5/27  ¤U¤È 01:55:23
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ArduinoUnoShield.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        30mil (0.762mm)          Round          32               6.31 Inch (160.34 mm)
+T2        31.5mil (0.8001mm)       Round          5                1.13 Inch (28.61 mm)
+T3        33.46mil (0.84988mm)     Round          12               3.61 Inch (91.65 mm)
+T4        35.43mil (0.89992mm)     Round          16               3.13 Inch (79.38 mm)
+T5        125.98mil (3.19989mm)    Round          4                5.25 Inch (133.29 mm)
+---------------------------------------------------------------------------
+Totals                                            69               19.42 Inch (493.26 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
